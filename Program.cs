@@ -40,6 +40,6 @@ public class Program
 			Console.WriteLine("Would you like to restart ? Enter yes or y to continue, or enter any other key to exit.");
 			restart = Console.ReadLine();
 		} while (restart == "yes" || restart == "y");
-
+		Console.WriteLine("Goodbye!");
 	}
 }
