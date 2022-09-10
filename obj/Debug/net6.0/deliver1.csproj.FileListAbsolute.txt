@@ -1,0 +1,15 @@
+C:\Users\stormy\Git\deliver1\deliver1\bin\Debug\net6.0\deliver1.exe
+C:\Users\stormy\Git\deliver1\deliver1\bin\Debug\net6.0\deliver1.deps.json
+C:\Users\stormy\Git\deliver1\deliver1\bin\Debug\net6.0\deliver1.runtimeconfig.json
+C:\Users\stormy\Git\deliver1\deliver1\bin\Debug\net6.0\deliver1.dll
+C:\Users\stormy\Git\deliver1\deliver1\bin\Debug\net6.0\deliver1.pdb
+C:\Users\stormy\Git\deliver1\deliver1\obj\Debug\net6.0\deliver1.csproj.AssemblyReference.cache
+C:\Users\stormy\Git\deliver1\deliver1\obj\Debug\net6.0\deliver1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stormy\Git\deliver1\deliver1\obj\Debug\net6.0\deliver1.AssemblyInfoInputs.cache
+C:\Users\stormy\Git\deliver1\deliver1\obj\Debug\net6.0\deliver1.AssemblyInfo.cs
+C:\Users\stormy\Git\deliver1\deliver1\obj\Debug\net6.0\deliver1.csproj.CoreCompileInputs.cache
+C:\Users\stormy\Git\deliver1\deliver1\obj\Debug\net6.0\deliver1.dll
+C:\Users\stormy\Git\deliver1\deliver1\obj\Debug\net6.0\refint\deliver1.dll
+C:\Users\stormy\Git\deliver1\deliver1\obj\Debug\net6.0\deliver1.pdb
+C:\Users\stormy\Git\deliver1\deliver1\obj\Debug\net6.0\deliver1.genruntimeconfig.cache
+C:\Users\stormy\Git\deliver1\deliver1\obj\Debug\net6.0\ref\deliver1.dll
